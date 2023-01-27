@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          팜하니 귀여워
         </a>
       </header>
     </div>
